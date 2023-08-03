@@ -1,4 +1,4 @@
 Virtual env - myenv
-    pip install feedparser
-    pip install plyer
+    - pip install feedparser
+    - pip install plyer
 
